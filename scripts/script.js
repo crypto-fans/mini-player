@@ -21,7 +21,7 @@ new Vue({
           name: "Everybody Knows",
           artist: "Leonard Cohen",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/2.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/2.mp3",
+          source: "https://raw.githubusercontent.com/crypto-fans/mini-player/mp3player/MP3 10.mp3",
           url: "https://www.youtube.com/watch?v=Lin-a2lTelg",
           favorited: true
         },
