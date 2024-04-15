@@ -10,10 +10,10 @@ new Vue({
       isTimerPlaying: false,
       tracks: [
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/1.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/1.mp3",
+          name: "Duro- Unreleased",
+          artist: "Young-Miko",
+          cover: "https://creators.crypto-fans.xyz/_next/image?url=https%3A%2F%2Fdexkit-storage.nyc3.digitaloceanspaces.com%2Fdexkit%2Fmedia-library%2Faccount%2F0x8ed0b73f3440eaf27d14d429713a5ff7eea03691%2F373752604_1022937468838807_8648130686652040740_n.webp&w=640&q=75",
+          source: "https://raw.githubusercontent.com/crypto-fans/mini-player/mp3player/mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
