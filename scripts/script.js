@@ -17,6 +17,16 @@ new Vue({
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
+
+         {
+          name: "Duro 2- Unreleased",
+          artist: "Young-Miko",
+          cover: "https://creators.crypto-fans.xyz/_next/image?url=https%3A%2F%2Fdexkit-storage.nyc3.digitaloceanspaces.com%2Fdexkit%2Fmedia-library%2Faccount%2F0x8ed0b73f3440eaf27d14d429713a5ff7eea03691%2FCRYPTO_FANS_2023_%25284%2529-transformed-transformed-transformed11111%2520%25281%2529%2520%25281%2529.webp&w=256&q=75",
+          source: "https://raw.githubusercontent.com/crypto-fans/mini-player/mp3player/11.mp3",
+          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          favorited: false
+        },
+        
         {
           name: "Everybody Knows",
           artist: "Leonard Cohen",
